@@ -29,6 +29,5 @@
 ### Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=THANMAHI&show_icons=true&theme=default" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THANMAHI&layout=compact&theme=default" height="165" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=THANMAHI&theme=default" alt="GitHub Streak" />
 </p>
