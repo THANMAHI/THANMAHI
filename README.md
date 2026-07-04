@@ -1,21 +1,34 @@
-# Hi there, I'm Thanmahi Peruri 👋
+<h1 align="center">Hi there! 🚀<br>I'm Thanmahi Peruri 😄</h1>
 
-I'm a Full-Stack Software Developer & University Student passionate about building scalable microservices and decentralized applications.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=THANMAHI&label=PROFILE+VIEWS&style=flat-square&color=blue" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/thanmahi-peruri-4b0068291/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:23a91a61b3@aec.edu.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-### 👨‍💻 About Me
-- 🔭 I'm currently working on advanced system design, microservices architecture, and distributed systems.
-- 🌱 I have a strong focus on **Web3, Smart Contract Engineering (UUPS), and Blockchain technology**.
-- 🚀 I heavily utilize containerization (**Docker/Docker Compose**) and manage deployments involving PostgreSQL and Redis.
-- ⚡ In my free time, I explore event sourcing and CQRS patterns.
-- 📫 How to reach me: https://www.linkedin.com/in/thanmahi-peruri-4b0068291/
+### About me
 
-### 🛠️ Tech Stack
-* **Frontend:** React, JavaScript, HTML/CSS
-* **Backend:** Node.js, C, C++, Python
-* **Web3:** Solidity, MetaMask integration, Decentralized Exchanges (DEX)
-* **Databases & DevOps:** PostgreSQL, Redis, Docker
+* 👨‍💻 Full-Stack Software Developer & University Student
+* 🔭 I’m currently working on advanced system design, microservices architecture, and distributed systems.
+* 🌱 I have a strong focus on **Web3, Smart Contract Engineering (UUPS), and Blockchain technology**.
+* ⚙️ Technologies I work with: React, Node.js, C++, Python, Docker, PostgreSQL, and more
+* ⚡ Fun fact: In my free time, I explore event sourcing and CQRS patterns!
 
-### 📊 GitHub Activity
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=THANMAHI&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+### Languages and Tools
+
+<p align="left">
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,c,cpp,python,solidity,docker,postgres,redis" alt="My Skills" />
+  </a>
+</p>
+
+### Github Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=THANMAHI&show_icons=true&theme=default" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THANMAHI&layout=compact&theme=default" height="165" alt="Top Languages" />
+</p>
