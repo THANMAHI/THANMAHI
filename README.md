@@ -16,7 +16,7 @@ I'm a Full-Stack Software Developer & University Student passionate about buildi
 * **Databases & DevOps:** PostgreSQL, Redis, Docker
 
 ### 📊 GitHub Activity
+### 📊 GitHub Activity
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=THANMAHI&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THANMAHI&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=THANMAHI&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
