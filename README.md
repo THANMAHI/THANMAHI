@@ -14,7 +14,6 @@
 
 * 👨‍💻 Full-Stack Software Developer & University Student
 * 🔭 I’m currently working on advanced system design, microservices architecture, and distributed systems.
-* 🌱 I have a strong focus on **Web3, Smart Contract Engineering (UUPS), and Blockchain technology**.
 * ⚙️ Technologies I work with: React, Node.js, C++, Python, Docker, PostgreSQL, and more
 * ⚡ Fun fact: In my free time, I explore event sourcing and CQRS patterns!
 
